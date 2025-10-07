@@ -1,0 +1,14 @@
+C:\Users\GamBr\source\repos\Whatsappv2\bin\Debug\Whatsappv2.exe.config
+C:\Users\GamBr\source\repos\Whatsappv2\bin\Debug\Whatsappv2.exe
+C:\Users\GamBr\source\repos\Whatsappv2\bin\Debug\Whatsappv2.pdb
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.Chat.resources
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.Custom.RJTextBox.resources
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.Login.resources
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.Properties.Resources.resources
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.exe
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.pdb
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.Burbuja.resources
+C:\Users\GamBr\source\repos\Whatsappv2\obj\Debug\Whatsappv2.mdConectar.resources
