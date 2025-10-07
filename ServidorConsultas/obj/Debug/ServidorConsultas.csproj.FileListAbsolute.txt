@@ -1,0 +1,7 @@
+C:\Users\GamBr\source\repos\ServidorConsultas\bin\Debug\ServidorConsultas.exe.config
+C:\Users\GamBr\source\repos\ServidorConsultas\bin\Debug\ServidorConsultas.exe
+C:\Users\GamBr\source\repos\ServidorConsultas\bin\Debug\ServidorConsultas.pdb
+C:\Users\GamBr\source\repos\ServidorConsultas\obj\Debug\ServidorConsultas.csproj.AssemblyReference.cache
+C:\Users\GamBr\source\repos\ServidorConsultas\obj\Debug\ServidorConsultas.csproj.CoreCompileInputs.cache
+C:\Users\GamBr\source\repos\ServidorConsultas\obj\Debug\ServidorConsultas.exe
+C:\Users\GamBr\source\repos\ServidorConsultas\obj\Debug\ServidorConsultas.pdb
