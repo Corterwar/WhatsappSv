@@ -1,0 +1,7 @@
+C:\Users\GamBr\source\repos\WhatsappLite\bin\Debug\WhatsappLite.exe.config
+C:\Users\GamBr\source\repos\WhatsappLite\bin\Debug\WhatsappLite.exe
+C:\Users\GamBr\source\repos\WhatsappLite\bin\Debug\WhatsappLite.pdb
+C:\Users\GamBr\source\repos\WhatsappLite\obj\Debug\WhatsappLite.csproj.AssemblyReference.cache
+C:\Users\GamBr\source\repos\WhatsappLite\obj\Debug\WhatsappLite.csproj.CoreCompileInputs.cache
+C:\Users\GamBr\source\repos\WhatsappLite\obj\Debug\WhatsappLite.exe
+C:\Users\GamBr\source\repos\WhatsappLite\obj\Debug\WhatsappLite.pdb
