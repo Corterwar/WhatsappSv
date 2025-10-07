@@ -1,0 +1,7 @@
+C:\Users\GamBr\source\repos\ServidorWpp\bin\Debug\ServidorWpp.exe.config
+C:\Users\GamBr\source\repos\ServidorWpp\bin\Debug\ServidorWpp.exe
+C:\Users\GamBr\source\repos\ServidorWpp\bin\Debug\ServidorWpp.pdb
+C:\Users\GamBr\source\repos\ServidorWpp\obj\Debug\ServidorWpp.csproj.AssemblyReference.cache
+C:\Users\GamBr\source\repos\ServidorWpp\obj\Debug\ServidorWpp.csproj.CoreCompileInputs.cache
+C:\Users\GamBr\source\repos\ServidorWpp\obj\Debug\ServidorWpp.exe
+C:\Users\GamBr\source\repos\ServidorWpp\obj\Debug\ServidorWpp.pdb
